@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.login{
+  background-image: linear-gradient(#000046,#1CB5E0);
+}
+
+.success{
+  background-color: rgba(43, 172, 43, 0.171);
+}
+
+.failure{
+  background-color: rgba(255, 0, 0, 0.185);
+}
+
+.logo{
+  width: 200px;
+}
+
+.home{
+  background-color: #005AD5;
+  height: 100vh;
+}
+
+.logo{
+  width: 50px;
+}
+
+.hero-text{
+  flex-basis: 2;
+}
+
+.hero-img{
+  flex-basis: 1;
+}
+
+.hero-img img{
+  width: 500px;
+}
+
+.header{
+  background-color: #005AD5;
+}
+
+.letter{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+  background-color: #000046;
+  color: white;
+}
+
+.bg-blue{
+  background-color: #005AD5;
+  text-decoration: none;
+}
